@@ -117,12 +117,12 @@ h1.title {
 .score-container:after {
   content: "Cupcake"; }
 .score-points:after {
-  content: "Kcal"; }
+  content: "DiabetesPts"; }
 
 .best-container:after {
   content: "Cupcake Max"; }
 .best-points:after {
-	content: "Kcal Max"; }
+	content: "DiabetesPts Max"; }
 
 p {
   margin-top: 0;
