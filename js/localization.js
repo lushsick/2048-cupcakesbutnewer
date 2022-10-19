@@ -23,7 +23,7 @@ String.toLocaleString({
     '%256'                  : 'blueberry cheesecake',
     '%512'                  : 'salted caramel chocolate chip',
     '%1024'                 : 'butterscotch waffle cone',
-    '%2048'                 : 'white chocolate peppermint',
+    '%2048'                 : 'PBJ',
     '%4096'                 : '2017 Confetti Vanilla',
     '%8192'                 : 'Rainbow',
     '%p0'                   : 'chocolate mint crunch',
@@ -36,7 +36,7 @@ String.toLocaleString({
     '%p256'                 : 'blueberry cheesecake',
     '%p512'                 : 'salted caramel choc. chip',
     '%p1024'                : 'butterscoth waffle cone',
-    '%p2048'                : 'white choc. peppermint',
+    '%p2048'                : 'PBJ',
     '%p4096'                : '2017 Confetti Vanilla',
     '%p8192'                : 'Rainbow'
 
@@ -65,7 +65,7 @@ String.toLocaleString({
     '%256'                  : 'blueberry cheesecake',
     '%512'                  : 'salted caramel chocolate chip',
     '%1024'                 : 'butterscotch waffle cone',
-    '%2048'                 : 'white chocolate peppermint',
+    '%2048'                 : 'PBJ',
     '%4096'                 : '2017 Confetti Vanilla',
     '%8192'                 : 'Rainbow',
     '%p0'                   : 'chocolate mint crunch',
@@ -78,7 +78,7 @@ String.toLocaleString({
     '%p256'                 : 'blueberry cheesecake',
     '%p512'                 : 'salted caramel choc. chip',
     '%p1024'                : 'butterscotch waffle cone',
-    '%p2048'                : 'white choc. peppermint',
+    '%p2048'                : 'PBJ',
     '%p4096'                : '2017 Confetti Vanilla',
     '%p8192'                : 'Rainbow'
   }
