@@ -24,7 +24,7 @@ String.toLocaleString({
     '%512'                  : 'salted caramel chocolate chip',
     '%1024'                 : 'butterscotch waffle cone',
     '%2048'                 : 'PBJ',
-    '%4096'                 : '2017 Confetti Vanilla',
+    '%4096'                 : '2022 Confetti Vanilla',
     '%8192'                 : 'Rainbow',
     '%p0'                   : 'chocolate mint crunch',
     '%p4'                   : 'carrot',
@@ -37,7 +37,7 @@ String.toLocaleString({
     '%p512'                 : 'salted caramel choc. chip',
     '%p1024'                : 'butterscoth waffle cone',
     '%p2048'                : 'PBJ',
-    '%p4096'                : '2017 Confetti Vanilla',
+    '%p4096'                : '2022 Confetti Vanilla',
     '%p8192'                : 'Rainbow'
 
 	},
@@ -66,7 +66,7 @@ String.toLocaleString({
     '%512'                  : 'salted caramel chocolate chip',
     '%1024'                 : 'butterscotch waffle cone',
     '%2048'                 : 'PBJ',
-    '%4096'                 : '2017 Confetti Vanilla',
+    '%4096'                 : '2022 Confetti Vanilla',
     '%8192'                 : 'Rainbow',
     '%p0'                   : 'chocolate mint crunch',
     '%p4'                   : 'carrot',
@@ -79,7 +79,7 @@ String.toLocaleString({
     '%p512'                 : 'salted caramel choc. chip',
     '%p1024'                : 'butterscotch waffle cone',
     '%p2048'                : 'PBJ',
-    '%p4096'                : '2017 Confetti Vanilla',
+    '%p4096'                : '2022 Confetti Vanilla',
     '%p8192'                : 'Rainbow'
   }
 
