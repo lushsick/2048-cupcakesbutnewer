@@ -25,7 +25,7 @@ String.toLocaleString({
     '%1024'                 : 'butterscotch waffle cone',
     '%2048'                 : 'PBJ',
     '%4096'                 : '2022 Confetti Vanilla',
-    '%8192'                 : 'Rainbow',
+    '%8192'                 : 'Unicorn',
     '%p0'                   : 'chocolate mint crunch',
     '%p4'                   : 'carrot',
     '%p8'                   : 'lavender earl grey',
@@ -38,7 +38,7 @@ String.toLocaleString({
     '%p1024'                : 'butterscoth waffle cone',
     '%p2048'                : 'PBJ',
     '%p4096'                : '2022 Confetti Vanilla',
-    '%p8192'                : 'Rainbow'
+    '%p8192'                : 'Unicorn'
 
 	},
 
@@ -67,7 +67,7 @@ String.toLocaleString({
     '%1024'                 : 'butterscotch waffle cone',
     '%2048'                 : 'PBJ',
     '%4096'                 : '2022 Confetti Vanilla',
-    '%8192'                 : 'Rainbow',
+    '%8192'                 : 'Unicorn',
     '%p0'                   : 'chocolate mint crunch',
     '%p4'                   : 'carrot',
     '%p8'                   : 'lavender earl grey',
@@ -80,7 +80,7 @@ String.toLocaleString({
     '%p1024'                : 'butterscotch waffle cone',
     '%p2048'                : 'PBJ',
     '%p4096'                : '2022 Confetti Vanilla',
-    '%p8192'                : 'Rainbow'
+    '%p8192'                : 'Unicorn'
   }
 
 });
